@@ -1,0 +1,26 @@
+header  {
+    font-size: 100px;
+    background-image: url(./Image1.webp);
+    text-align: center;
+    color: khaki;
+    
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+}
+
+#brushes{
+    background-color: aquamarine;
+}
+#frames{
+    background-color:blueviolet;
+}
+#paint{
+    background-color:cyan;
+}
+.blue{
+    font-weight: bold;
+    color: blue;
+}
